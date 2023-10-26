@@ -1,1 +1,1 @@
-# ims_file_converter
+# File Converter - Imaris IMS to TIFF File
